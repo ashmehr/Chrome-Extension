@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "PlayR",
+  "version": "1.0",
+  "description": "This extension controls youtube and soundcloud tabs...",
+  "browser_action": {
+    "default_icon": "asset/icon.png",
+    "default_popup": "view/popup.html"
+  },
+  "permissions": ["tabs"]
+}
